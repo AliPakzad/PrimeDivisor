@@ -7,15 +7,15 @@ If there are several numbers in this state, print the largest one.
 
 Example input:
 
-123
-43
-54
-12
-76
-84
-98
-678
-543
+123  
+43  
+54  
+12  
+76  
+84  
+98  
+678  
+543  
 231
 
 Example output:
