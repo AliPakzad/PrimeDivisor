@@ -6,7 +6,7 @@ If there are several numbers in this state, print the largest one.
  
 
 Example input:
-
+```
 123  
 43  
 54  
@@ -17,7 +17,8 @@ Example input:
 678  
 543  
 231
-
+```
 Example output:
-
+```
 678 3
+```
